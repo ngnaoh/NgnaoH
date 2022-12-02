@@ -1,4 +1,4 @@
-### Hi, I am Hoan Nguyen 👋
+### Hi, I'm Hoan Nguyen 👋
 
 <!--
 **NgnaoH/NgnaoH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
